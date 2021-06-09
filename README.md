@@ -43,8 +43,8 @@ $ yarn start
 
 # O servidor irá iniciar em http://localhost:3000
 
-Lembrando que precisa usar a api do commerce js e a do stripe. Portanto caso querira utilizar a aplicação 
-corretamente crie um arquivo .env na raiz do projeto e coloque a api ao lado desses arquivos
+Lembrando que precisa usar a api do commerce js e a do stripe. Portanto caso queira utilizar a aplicação 
+corretamente crie um arquivo .env na raiz do projeto adicione essas duas linhas de código e coloque a api ao lado desses arquivos.
 REACT_APP_CHEC_PUBLIC_KEY=
 REACT_APP_STRIPE_PUBLIC_KEY=
 
