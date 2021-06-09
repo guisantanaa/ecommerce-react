@@ -7,7 +7,7 @@
 <h2>Descrição do projeto</h2>
 
 <p>Esse projeto tem como objetivo treinar desenvolvimento de ecommerce. Essa aplicação foi desenvolvida seguindo um tutorial
-americano em react, foi usada a api do <a href="https://commercejs.com/" target="_blank" >commerce js</a> para lançamentos de produtos e a api
+americano em React. foi usada a api do <a href="https://commercejs.com/" target="_blank" >commerce js</a> para lançamentos de produtos e a api
 do <a href="https://stripe.com/en-br" target="_blank" >Stripe</a> para pagamentos. O link do tutorial está nesse <a href="https://www.youtube.com/watch?v=377AQ0y6LPA">Link</a>
 </p>
 
@@ -43,8 +43,9 @@ $ yarn start
 
 # O servidor irá iniciar em http://localhost:3000
 
-Lembrando que precisa usar a api do commerce js e a do stripe. Portanto caso queira utilizar a aplicação 
-corretamente crie um arquivo .env na raiz do projeto adicione essas duas linhas de código e coloque a api ao lado desses arquivos.
+Lembrando que precisa usar a api do commerce js e a do stripe. Portanto caso queira 
+utilizar a aplicação corretamente crie um arquivo .env na raiz do projeto adicione
+essas duas linhas de código e coloque a api ao lado dessas linhas.
 REACT_APP_CHEC_PUBLIC_KEY=
 REACT_APP_STRIPE_PUBLIC_KEY=
 
